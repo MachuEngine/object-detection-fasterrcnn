@@ -22,3 +22,13 @@ project/
 ├── requirements.txt
 └── README.md
 ```
+
+## 설치
+### Git 
+```bash
+https://github.com/MachuEngine/object-detection-fasterrcnn.git
+```
+### Requirements
+```bash
+pip install -r requirements.txt
+```
