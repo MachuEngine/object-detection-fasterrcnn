@@ -1,0 +1,21 @@
+data:
+  path: "./data"
+  num_classes: 2
+
+train:
+  epochs: 3
+  learning_rate: 0.005
+  batch_size: 2
+  momentum: 0.9
+  weight_decay: 0.0005
+
+model:
+  pretrained: true
+
+logging:
+  level: INFO
+  file: "./logs/train.log"
+
+checkpoint:
+  directory: "./checkpoints"
+  save_interval: 5
