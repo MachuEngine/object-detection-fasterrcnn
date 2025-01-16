@@ -3,6 +3,7 @@ Faster R-CNN을 이용한 객체 검출
 
 
 ## 프로젝트 구조
+```bash
 project/
 ├── configs/
 │   └── config.yaml
@@ -20,3 +21,4 @@ project/
 ├── main.py
 ├── requirements.txt
 └── README.md
+```
