@@ -77,8 +77,6 @@ python main.py --config configs/config.yaml
 
 
 ### Faster R-CNN의 동작 과정
-# Faster R-CNN 동작 과정
-
 Faster R-CNN은 입력 이미지에서 객체를 탐지하고 최종적으로 원본 이미지에 결과를 매핑하기까지 여러 단계를 거칩니다. 아래는 각 단계의 역할과 출력 크기를 포함한 상세한 동작 과정입니다.
 
 ---
