@@ -73,4 +73,4 @@ python main.py --config configs/config.yaml
 | **Region Proposal** | Selective Search               | Selective Search                  | **Region Proposal Network (RPN)**   |
 | **속도**            | 매우 느림                      | 빠름                              | 더 빠름                               |
 | **네트워크 구조**    | 분리된 CNN, SVM, 회귀          | 단일 네트워크                     | 단일 네트워크                         |
-| **ROI 처리 방식**    | CNN에 개별 전달                | ROI Pooling         
+| **ROI 처리 방식**    | CNN에 개별 전달                | ROI Pooling                       | ROI Pooling                          |
